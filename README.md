@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Hikaru Fukuda
+GIS undergraduate student @ SDSU, graduating Fall 2026.
 
-<!--
-**pikachuu15/pikachuu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Skills
+- ArcGIS Pro, QGIS, ArcGIS Online
+- Python (ArcPy, geopandas)
+- Web mapping (Leaflet, Mapbox)
+- Cartographic design
 
-Here are some ideas to get you started:
+## 🗂 Featured Projects
+- [San Diego ZIP Code Map](https://github.com/pikachuu15/sdsu-gis-project1)
+- [Coming soon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/hikaru-fukuda)
